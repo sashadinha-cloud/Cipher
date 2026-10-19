@@ -18,6 +18,7 @@ public class Caesar {
 			//add letter to output
 		
 		//print output
+	}System.out.printIn("Enter message: ");
+	String message= 
 	
-	}
 }
