@@ -19,6 +19,20 @@ public class Caesar {
 		
 		//print output
 	}System.out.printIn("Enter message: ");
-	String message= 
+	String message=input.nextLine().toUppercase();
+	for(int i=0; i< message.length();i++); {
+	char letter=message.charAt(i);
+	if (letter>'A'&&letter<='Z');
+	int number=letter-'Z'-26;
+	if (letter=='Z');
+	number=0;
 	
+	
+	
+	
+	
+	{
+		
+		
+	}
 }
