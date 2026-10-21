@@ -18,20 +18,15 @@ public class Caesar {
 			//add letter to output
 		
 		//print output
-	}System.out.printIn("Enter message: ");
-	String message=input.nextLine().toUppercase();
-	for(int i=0; i< message.length();i++); {
-	char letter=message.charAt(i);
-	if (letter>'A'&&letter<='Z');
-	int number=letter-'Z'-26;
-	if (letter=='Z');
-	number=0;
+	System.out.println("Enter message: ");
+	String message=in.nextLine().toUpperCase();
+	System.out.println("enetr shift number");
+	int shift = in.nextInt();
+	String shifted = shiftRight(output, 1);
+	int =0;
 	
 	
 	
-	
-	
-	{
 		
 		
 	}
