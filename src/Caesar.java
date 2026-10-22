@@ -19,11 +19,16 @@ public class Caesar {
 		
 		//print output
 	System.out.println("Enter message: ");
-	String message=in.nextLine().toUpperCase();
-	System.out.println("enetr shift number");
+	String message=in.nextLine().toLowerCase();
+	System.out.println("enter shift number");
 	int shift = in.nextInt();
-	String shifted = shiftRight(output, 1);
-	int =0;
+	String result="";
+	for(int i=0;i<message.length(););
+	char letter= message.charAt(i);
+	if (letter>='A'&&letter<='Z');
+	int number=letter-'A'+1;
+	
+	
 	
 	
 	
